@@ -1,19 +1,5 @@
-Perfeito 🚀 — adicionei **badges** no topo para deixar o README ainda mais estiloso e informativo.
-Aqui está a versão final:
-
 ```markdown
 # 🎮 Análise de Vendas de Jogos – Apresentação Visual
-
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?logo=plotly&logoColor=white)](https://matplotlib.org/)
-[![License](https://img.shields.io/badge/License-Academic-lightgrey?logo=openai&logoColor=white)](#)
-
-</div>
-
 > Projeto de análise exploratória da base de **vendas de jogos (vgsales.csv)**, com geração de **gráficos e insights** para melhor compreensão do mercado de games.
 
 ---
@@ -99,3 +85,4 @@ pip install -r requirements.txt
 ## 📚 Créditos
 
 * 📊 Base de dados: [Kaggle – Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
+
