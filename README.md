@@ -70,4 +70,3 @@ pip install -r requirements.txt
 ## Créditos
 
 - Base de dados: [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
-- Script e notebook: desenvolvido para fins acadêmicos e didáticos.
