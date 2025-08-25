@@ -3,16 +3,7 @@ project:
   description: >
     Projeto de análise exploratória da base de vendas de jogos (vgsales.csv),
     com geração de gráficos e insights para melhor compreensão do mercado de games.
-
-structure:
-  - data/
-    - vgsales.csv   # Base de dados
-  - figs/           # Gráficos gerados
-  - src/
-    - analise_jogos.py  # Script principal
-  - README.md       # Este arquivo
-  - requirements.txt # Dependências
-
+    
 execution:
   steps:
     - step: "Criar ambiente virtual e instalar dependências"
@@ -55,3 +46,4 @@ requirements:
 credits:
   dataset: "Kaggle – Video Game Sales"
   purpose: "Desenvolvido para fins acadêmicos e didáticos"
+
