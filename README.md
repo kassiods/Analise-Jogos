@@ -9,8 +9,6 @@ analise_jogos/
 ├─ data/
 │  └─ vgsales.csv
 ├─ figs/                # Gráficos gerados
-├─ notebooks/
-│  └─ analise_jogos.ipynb
 ├─ src/
 │  └─ analise_jogos.py  # Script principal
 ├─ README.md            # Este arquivo
